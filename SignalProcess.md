@@ -28,9 +28,9 @@
 每一个音符对应的相当于什么呢？
 
 就相当于我们的 
-- do：$sin(2\pi t)$
-- re：$sin(4\pi t)$
-- mi：$sin(6\pi t)$
+- ![](https://github.com/LetterLi1997/knowledgeBook/blob/master/images/CodeCogsEqn%20(1).gif?raw=true)
+- ![](https://github.com/LetterLi1997/knowledgeBook/blob/master/images/CodeCogsEqn%20(2).gif?raw=true)
+- ![](https://github.com/LetterLi1997/knowledgeBook/blob/master/images/CodeCogsEqn%20(3).gif?raw=true)
 - ……
 
 所以当我们弹奏钢琴，每个音符发出时都是一个个独立且不断衰减的正弦波，这些正弦波之间由于各自的相位差在时域上叠加，形成我们看起来如此复杂的音乐/声音波形
@@ -54,8 +54,5 @@
 
 **3. 有频谱和相位谱，我就可以恢复出原信号！**
 
-![](http://latex.codecogs.com/gif.latex?y)
-
-
-$$ y=Asin(\omega t + T)$$
+![](https://github.com/LetterLi1997/knowledgeBook/blob/master/images/CodeCogsEqn.gif?raw=true) 
 由相位谱得到T的值
