@@ -54,9 +54,8 @@
 
 **3. 有频谱和相位谱，我就可以恢复出原信号！**
 
-![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
+![](http://latex.codecogs.com/gif.latex?y)
 
 
 $$ y=Asin(\omega t + T)$$
-$A 和 \omega 是通过频谱得到的,$
-$T通过相位谱得到$
+由相位谱得到T的值
