@@ -50,6 +50,7 @@
 2. 只有频谱没有相位谱，这个世界就是一个矩形波！
 
 ![](https://github.com/LetterLi1997/knowledgeBook/blob/master/images/%E6%96%B9%E6%B3%A2.jpg?raw=true)
+
 3. 有频谱和相位谱，我就可以恢复出原信号！
 
 $$ y=Asin(\omega t + T)$$
