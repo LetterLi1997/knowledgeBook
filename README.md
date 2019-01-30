@@ -9,11 +9,11 @@
 - **python**
 - **others**
 
-## ![信号分析与处理](https://github.com/LetterLi1997/knowledgeBook/sigProecss)
+## [信号分析与处理](https://github.com/LetterLi1997/knowledgeBook/sigProecss)
 
 1. FT/FS 傅里叶之掐死教程的理解
 
-## ![JavaScript](https://github.com/LetterLi1997/knowledgeBook/JavaScript)
+## [JavaScript](https://github.com/LetterLi1997/knowledgeBook/JavaScript)
 
 
-## ![Python](https://github.com/LetterLi1997/knowledgeBook/python)
+## [Python](https://github.com/LetterLi1997/knowledgeBook/python)
