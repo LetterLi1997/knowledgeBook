@@ -13,9 +13,9 @@
 
 1. FT/FS 傅里叶之掐死教程的理解
 
-## [JavaScript](https://github.com/LetterLi1997/knowledgeBook/JavaScript)
+## [JavaScript](https://github.com/LetterLi1997/knowledgeBook/tree/master/JavaScript)
 
 
-## [Python](https://github.com/LetterLi1997/knowledgeBook/Python)
+## [Python](https://github.com/LetterLi1997/knowledgeBook/tree/master/Python)
 
-## [Others](https://github.com/LetterLi1997/knowledgeBook/Others)
+## [Others](https://github.com/LetterLi1997/knowledgeBook/tree/masterOthers)
