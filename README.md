@@ -19,3 +19,4 @@
 ## [Python](https://github.com/LetterLi1997/knowledgeBook/tree/master/Python)
 
 ## [Others](https://github.com/LetterLi1997/knowledgeBook/tree/masterOthers)
+1. ubuntu科学上网
