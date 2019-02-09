@@ -109,4 +109,8 @@ public void step(){
         }
     }
 ```
-# [完整代码]()
+# 完整效果
+![](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/Images/1.gif?raw=true)
+
+# 完整代码
+[详见链接](https://github.com/LetterLi1997/knowledgeBook/tree/master/Java/CellMachine)
