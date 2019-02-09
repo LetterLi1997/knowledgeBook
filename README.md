@@ -17,6 +17,15 @@
 
 
 ## [Python](https://github.com/LetterLi1997/knowledgeBook/tree/master/Python)
+### [爬虫](https://github.com/LetterLi1997/knowledgeBook/tree/master/Python/%E7%88%AC%E8%99%AB)
+1. 爬取猫眼电影top100
+2. 爬取今日头条
+
+### python basic
+1. field生成器
+
+## [Java](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/JavaBasic.md)
+1. java基础
 
 ## [Others](https://github.com/LetterLi1997/knowledgeBook/tree/masterOthers)
 1. [ubuntu科学上网](https://github.com/LetterLi1997/knowledgeBook/blob/master/Others/VPN%20for%20Ubuntu.md)
