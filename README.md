@@ -30,3 +30,4 @@
 
 ## [Others](https://github.com/LetterLi1997/knowledgeBook/tree/masterOthers)
 1. [ubuntu科学上网](https://github.com/LetterLi1997/knowledgeBook/blob/master/Others/VPN%20for%20Ubuntu.md)
+2. [解决Nginx 403 Forbidden](https://my.oschina.net/antsky/blog/377739)
