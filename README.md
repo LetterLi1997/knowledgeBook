@@ -26,8 +26,8 @@
 ### [机器学习]()
 > 读书笔记——《机器学习实战》基于Scikit-Learn和TensorFlow
 
-1. [机器学习基础]()
-2. [端到端的机器学习项目]()
+1. [机器学习基础](https://github.com/LetterLi1997/knowledgeBook/blob/master/Python/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Scikit-Learn-And-Tensorflow/machine-learning-basic.md)
+2. [端到端的机器学习项目](https://github.com/LetterLi1997/knowledgeBook/blob/master/Python/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Scikit-Learn-And-Tensorflow/end-end-project.md)
 
 ### python basic
 1. field生成器
