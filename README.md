@@ -3,6 +3,8 @@
 
 目前仍然是一个技术小白，后续有所收获都会抽出时间在笔记本上append新东西~ 和大家共勉！
 
+## [附上超系统的markdown语法介绍](https://coding.net/help/doc/project/markdown.html)
+
 笔记本主要技术栈为
 - **signal processing**
 - **javascript**
@@ -20,6 +22,12 @@
 ### [爬虫](https://github.com/LetterLi1997/knowledgeBook/tree/master/Python/%E7%88%AC%E8%99%AB)
 1. 爬取猫眼电影top100
 2. 爬取今日头条
+
+### [机器学习]()
+> 读书笔记——《机器学习实战》基于Scikit-Learn和TensorFlow
+
+1. [机器学习基础]()
+2. [端到端的机器学习项目]()
 
 ### python basic
 1. field生成器
