@@ -3,6 +3,8 @@
 
 目前仍然是一个技术小白，后续有所收获都会抽出时间在笔记本上append新东西~ 和大家共勉！
 
+## [附上超系统的markdown语法介绍](https://coding.net/help/doc/project/markdown.html)
+
 笔记本主要技术栈为
 - **signal processing**
 - **javascript**
@@ -21,12 +23,19 @@
 1. 爬取猫眼电影top100
 2. 爬取今日头条
 
+### [机器学习]()
+> 读书笔记——《机器学习实战》基于Scikit-Learn和TensorFlow
+
+1. [机器学习基础](https://github.com/LetterLi1997/knowledgeBook/blob/master/Python/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Scikit-Learn-And-Tensorflow/machine-learning-basic.md)
+2. [端到端的机器学习项目](https://github.com/LetterLi1997/knowledgeBook/blob/master/Python/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Scikit-Learn-And-Tensorflow/end-end-project.md)
+
 ### python basic
 1. field生成器
 
 ## [Java](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/JavaBasic.md)
 1. java基础
 2. [java实现元胞自动机](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/CellMachine.md)
+3. [ListView 最常使用和最难用的控件](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/ListView/ListView.md)
 
 ## [Others](https://github.com/LetterLi1997/knowledgeBook/tree/masterOthers)
 1. [ubuntu科学上网](https://github.com/LetterLi1997/knowledgeBook/blob/master/Others/VPN%20for%20Ubuntu.md)
