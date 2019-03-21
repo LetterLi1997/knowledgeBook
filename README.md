@@ -33,9 +33,13 @@
 1. field生成器
 
 ## [Java](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/JavaBasic.md)
+### java
 1. java基础
 2. [java实现元胞自动机](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/CellMachine.md)
 3. [ListView 最常使用和最难用的控件](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/ListView/ListView.md)
+### Android
+1. [Android-manifest.xml 详解](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/Android/Android-manifest/Android-manifest.md)
+2. [Android错误及处理](https://github.com/LetterLi1997/knowledgeBook/blob/master/Java/Android/Android-error-handle.md)
 
 ## [Others](https://github.com/LetterLi1997/knowledgeBook/tree/masterOthers)
 1. [ubuntu科学上网](https://github.com/LetterLi1997/knowledgeBook/blob/master/Others/VPN%20for%20Ubuntu.md)
