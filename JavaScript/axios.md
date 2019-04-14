@@ -44,7 +44,7 @@ axios({
 4. 执行then catch操作
 
 - **用户按下登录按钮->login相应api**
-[]!()
+![](https://github.com/LetterLi1997/knowledgeBook/blob/master/JavaScript/images/vue-axios/login.PNG?raw=true)
 ```
 //  用户登录按钮对应方法 -> 'handleLogin'
 <el-input
